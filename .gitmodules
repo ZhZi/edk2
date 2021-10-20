@@ -12,10 +12,10 @@
 	url = https://github.com/kkos/oniguruma
 [submodule "MdeModulePkg/Library/BrotliCustomDecompressLib/brotli"]
 	path = MdeModulePkg/Library/BrotliCustomDecompressLib/brotli
-	url = https://github.com/google/brotli
+	url = https://github.com/ZhZi/brotli
 [submodule "BaseTools/Source/C/BrotliCompress/brotli"]
 	path = BaseTools/Source/C/BrotliCompress/brotli
-	url = https://github.com/google/brotli
+	url = https://github.com/ZhZi/brotli
 	ignore = untracked
 [submodule "RedfishPkg/Library/JsonLib/jansson"]
 	path = RedfishPkg/Library/JsonLib/jansson
